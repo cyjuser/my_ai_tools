@@ -1,4 +1,4 @@
-# site-explorer 迁移包
+# site-explorer 迁移部署说明
 
 > 版本：2026-05-27
 
